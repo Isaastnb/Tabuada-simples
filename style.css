@@ -1,0 +1,28 @@
+body{
+background: linear-gradient(45deg , red ,blue) fixed;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    padding: auto;
+
+}
+
+section{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+#dados input{
+    margin: 10px;
+}
+
+
+#dados input[type="button"] {
+    width: 150px;
+    margin: 10px;
+}
